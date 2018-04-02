@@ -1,0 +1,106 @@
+body
+{
+	padding: 2%;
+}
+
+h1
+{
+	color: white;
+	cursor: pointer;
+}
+
+h3
+{
+	color: #999;
+}
+
+h4
+{
+	color: silver;
+}
+
+p
+{
+	color: #333;
+}
+
+#navSoc .test
+{
+	color: red;
+}
+
+.container-fluid
+{
+	margin-top: 2%;
+}
+
+#left
+{
+	background-color: #555;
+	padding: 1% 8% 1% 8%;
+}
+
+#right
+{
+	padding: 2%;
+}
+
+.smCaps
+{
+	font-variant: small-caps;
+}
+
+#navSoc
+{
+	text-align: center;
+}
+
+#navSoc ul
+{
+	padding: 0;
+}
+
+#navMenu ul
+{
+	padding: 0;
+	list-style-type: none;
+}
+
+#navMenu ul li
+{
+	font-size: 130%;
+	padding: 1%;
+}
+
+#navMenu ul a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#navMenu ul a:hover
+{
+	color: #888;
+}
+
+#navSoc i
+{
+	border: 1px solid white;
+	border-radius: 20%;
+	color: #111;
+	font-size: 200%;
+	margin: 2%;
+	padding: 2%;
+}
+
+#navSoc i:hover
+{
+	background-color: #555;
+	color: white;
+	cursor: pointer;
+	border-radius: 25%;
+	border: 2px solid #111;
+	font-size: 170%;
+}
+
+
